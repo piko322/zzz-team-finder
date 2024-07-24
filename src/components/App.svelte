@@ -220,7 +220,7 @@
 							<tr>
 								{#each team.agents as agent}
 									<td class='agent-card'>
-										<img src={`/Agents/${agent}.png`}/>
+										<img src={`Agents/${agent}.png`}/>
 										<br>
 										<p>{agent}</p>
 									</td>

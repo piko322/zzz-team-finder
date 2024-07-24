@@ -40,7 +40,7 @@
 <div>
   <!-- svelte-ignore a11y-click-events-have-key-events -->
   <img
-    src={`/Agents/${agent}.png`}
+    src={`Agents/${agent}.png`}
     alt={agent}
     class="agent-image {checked ? 'selected' : ''}"
     on:click={toggleImage}
