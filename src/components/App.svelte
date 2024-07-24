@@ -19,34 +19,43 @@
 
 	let searchInput;
 
-	onMount(() => {
-        console.log('Fetching data');
-        fetch('/possible_teams.csv')
-            .then(response => response.text())
-            .then(data => {
-                Papa.parse(data, {
-                    header: true,
-                    complete: function (results) {
-                        teams = results.data.map(row => {
-							let agentsList = [row['Agent 1'], row['Agent 2'], row['Agent 3']];
-							agentsList.forEach(agent => agents.add(agent));
-                            return {
-                                agents: agentsList,
-                                notes: row['Notes']
-                            };
-                        });
-                        console.log('Data loaded.');
-                        console.log('Parsed teams:', teams);
-                        console.log('Agents:', Array.from(agents));
-                        agents = new Set(Array.from(agents).sort());
-						filteredAgents.set(Array.from(agents));
-						dataLoaded = true;
+	async function fetchData() {
+		try {
+			const response = await fetch('/possible_teams.csv');
+			if (!response.ok) {
+				throw new Error(`HTTP error! Status: ${response.status}`);
+			}
+			const data = await response.text();
+			Papa.parse(data, {
+				header: true,
+				complete: function (results) {
+					teams = results.data.map(row => {
+						let agentsList = [row['Agent 1'], row['Agent 2'], row['Agent 3']];
+						agentsList.forEach(agent => agents.add(agent));
+						return {
+							agents: agentsList,
+							notes: row['Notes']
+						};
+					});
+					console.log('Data loaded.');
+					console.log('Parsed teams:', teams);
+					console.log('Agents:', Array.from(agents));
+					agents = new Set(Array.from(agents).sort());
+					filteredAgents.set(Array.from(agents));
+					dataLoaded = true;
 
-						checkedAgents.set(new Set(agents));
-                    }
-                });
-            });
-    });
+					checkedAgents.set(new Set(agents));
+				}
+			});
+		} catch (error) {
+			console.error('Error fetching data:', error);
+		}
+	}
+
+	onMount(() => {
+		console.log('Fetching data');
+		fetchData();
+	});
 
 	console.log('test');
 
