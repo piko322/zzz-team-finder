@@ -116,6 +116,7 @@
     }
 
 	function handleKeyPress(event) {
+		console.log('Key pressed:', event.key);
 		if (event.key === 'Enter') {
 			console.log('Enter key pressed');
 			let topmostAgent = Array.from($filteredAgents)[0];
@@ -136,6 +137,10 @@
 				});
 			}
 
+		} else if (event.key === '`') {
+			console.log('` key pressed');
+			event.preventDefault(); // Prevent the backtick from being entered
+			resetFilters();
 		}
 	}
 
@@ -252,6 +257,10 @@
 				</div>
 				<div class="filter-buttons">
 					<button on:click={resetFilters}>Reset Filters</button> <!-- New button -->
+				</div>
+				<div>
+					<p>You can press Enter to select the first checkbox</p>
+					<p>You can also press Backtick ( ` ) to reset filters</p>
 				</div>
 			</div>
 			
