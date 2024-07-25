@@ -1,90 +1,102 @@
 Agent 1,Agent 2,Agent 3,Notes
 Anby,Anton,Ben,
-Anby,Anton,Billy,2+ Attack agents
+Anby,Anton,Billy,
 Anby,Anton,Grace,
-Anby,Anton,Koleda,2+ Stun agents
-Anby,Anton,Nekomata,2+ Attack agents
+Anby,Anton,Koleda,
+Anby,Anton,Nekomata,
 Anby,Anton,Nicole,
 Anby,Anton,Rina,
-Anby,Ben,Grace,No Attack Agents
-Anby,Billy,Corin,2+ Attack agents
+Anby,Ben,Grace,
+Anby,Billy,Corin,
 Anby,Billy,Grace,
-Anby,Billy,Nekomata,2+ Attack agents
+Anby,Billy,Nekomata,
 Anby,Billy,Nicole,
 Anby,Billy,Piper,
 Anby,Billy,Rina,
-Anby,Corin,Nekomata,2+ Attack agents
+Anby,Corin,Nekomata,
 Anby,Corin,Rina,
 Anby,Ellen,Rina,
-Anby,Grace,Koleda,"No Attack Agents, 2+ Stun agents"
+Anby,Grace,Koleda,
 Anby,Grace,Nekomata,
-Anby,Grace,Nicole,No Attack Agents
-Anby,Grace,Rina,No Attack Agents
-Anby,Lycaon,Rina,"No Attack Agents, 2+ Stun agents"
+Anby,Grace,Nicole,
+Anby,Grace,Rina,
+Anby,Lycaon,Rina,
 Anby,Nekomata,Nicole,
 Anby,Nekomata,Piper,
 Anby,Nekomata,Rina,
-Anby,Nicole,Rina,"No Attack Agents, 2+ Support agents"
+Anby,Nicole,Rina,
 Anby,Nicole,Zhu Yuan,
-Anton,Ben,Grace,No Stun Agents
+Anby,Rina,Zhu Yuan,
+Anton,Ben,Grace,
 Anton,Ben,Koleda,
-Anton,Ben,Lucy,No Stun Agents
-Anton,Ben,Rina,No Stun Agents
-Anton,Ben,Soldier 11,"No Stun Agents, 2+ Attack agents"
-Anton,Corin,Rina,"No Stun Agents, 2+ Attack agents"
-Anton,Ellen,Rina,"No Stun Agents, 2+ Attack agents"
+Anton,Ben,Lucy,
+Anton,Ben,Rina,
+Anton,Ben,Soldier 11,
+Anton,Corin,Rina,
+Anton,Ellen,Rina,
 Anton,Grace,Koleda,
-Anton,Grace,Rina,No Stun Agents
+Anton,Grace,Rina,
 Anton,Koleda,Lucy,
 Anton,Koleda,Rina,
-Anton,Koleda,Soldier 11,2+ Attack agents
+Anton,Koleda,Soldier 11,
 Anton,Lycaon,Rina,
-Ben,Grace,Koleda,No Attack Agents
-Ben,Grace,Lucy,"No Attack Agents, No Stun Agents"
-Ben,Grace,Rina,"No Attack Agents, No Stun Agents"
-Ben,Grace,Soldier 11,No Stun Agents
-Ben,Koleda,Lucy,No Attack Agents
+Anton,Rina,Zhu Yuan,
+Ben,Grace,Koleda,
+Ben,Grace,Lucy,
+Ben,Grace,Rina,
+Ben,Grace,Soldier 11,
+Ben,Koleda,Lucy,
 Ben,Koleda,Soldier 11,
-Ben,Lucy,Piper,"No Attack Agents, No Stun Agents"
-Ben,Lucy,Soldier 11,No Stun Agents
-Billy,Corin,Ellen,"No Stun Agents, 2+ Attack agents"
-Billy,Corin,Lycaon,2+ Attack agents
-Billy,Corin,Nekomata,"No Stun Agents, 2+ Attack agents"
-Billy,Corin,Nicole,"No Stun Agents, 2+ Attack agents"
-Billy,Corin,Piper,"No Stun Agents, 2+ Attack agents"
-Billy,Corin,Rina,"No Stun Agents, 2+ Attack agents"
-Billy,Lucy,Piper,No Stun Agents
-Billy,Nekomata,Nicole,"No Stun Agents, 2+ Attack agents"
-Billy,Nekomata,Piper,"No Stun Agents, 2+ Attack agents"
-Billy,Nicole,Piper,No Stun Agents
-Billy,Nicole,Zhu Yuan,"No Stun Agents, 2+ Attack agents"
-Corin,Ellen,Lycaon,2+ Attack agents
-Corin,Ellen,Nekomata,"No Stun Agents, 2+ Attack agents"
-Corin,Ellen,Piper,"No Stun Agents, 2+ Attack agents"
-Corin,Ellen,Rina,"No Stun Agents, 2+ Attack agents"
-Corin,Ellen,Soukaku,"No Stun Agents, 2+ Attack agents"
-Corin,Grace,Rina,No Stun Agents
-Corin,Lucy,Piper,No Stun Agents
-Corin,Lycaon,Nekomata,2+ Attack agents
+Ben,Lucy,Piper,
+Ben,Lucy,Soldier 11,
+Ben,Lucy,Zhu Yuan,
+Billy,Corin,Ellen,
+Billy,Corin,Lycaon,
+Billy,Corin,Nekomata,
+Billy,Corin,Nicole,
+Billy,Corin,Piper,
+Billy,Corin,Rina,
+Billy,Lucy,Piper,
+Billy,Nekomata,Nicole,
+Billy,Nekomata,Piper,
+Billy,Nicole,Piper,
+Billy,Nicole,Zhu Yuan,
+Corin,Ellen,Lycaon,
+Corin,Ellen,Nekomata,
+Corin,Ellen,Piper,
+Corin,Ellen,Rina,
+Corin,Ellen,Soukaku,
+Corin,Grace,Rina,
+Corin,Lucy,Piper,
+Corin,Lycaon,Nekomata,
 Corin,Lycaon,Piper,
 Corin,Lycaon,Rina,
 Corin,Lycaon,Soukaku,
-Corin,Nekomata,Nicole,"No Stun Agents, 2+ Attack agents"
-Corin,Nekomata,Piper,"No Stun Agents, 2+ Attack agents"
-Corin,Nekomata,Rina,"No Stun Agents, 2+ Attack agents"
-Corin,Piper,Rina,No Stun Agents
-Ellen,Grace,Rina,No Stun Agents
+Corin,Nekomata,Nicole,
+Corin,Nekomata,Piper,
+Corin,Nekomata,Rina,
+Corin,Piper,Rina,
+Corin,Rina,Zhu Yuan,
+Ellen,Grace,Rina,
 Ellen,Lycaon,Rina,
 Ellen,Lycaon,Soukaku,
-Ellen,Rina,Soukaku,"No Stun Agents, 2+ Support agents"
-Grace,Koleda,Lucy,No Attack Agents
-Grace,Koleda,Rina,No Attack Agents
+Ellen,Rina,Soukaku,
+Ellen,Rina,Zhu Yuan,
+Ellen,Soukaku,Zhu Yuan,
+Grace,Koleda,Lucy,
+Grace,Koleda,Rina,
 Grace,Koleda,Soldier 11,
-Grace,Lycaon,Rina,No Attack Agents
-Koleda,Lucy,Piper,No Attack Agents
+Grace,Lycaon,Rina,
+Grace,Rina,Zhu Yuan,
+Koleda,Lucy,Piper,
 Koleda,Lucy,Soldier 11,
-Lucy,Nekomata,Piper,No Stun Agents
-Lucy,Piper,Soldier 11,No Stun Agents
-Lycaon,Rina,Soukaku,"No Attack Agents, 2+ Support agents"
-Nekomata,Nicole,Piper,No Stun Agents
-Nekomata,Nicole,Zhu Yuan,"No Stun Agents, 2+ Attack agents"
+Koleda,Lucy,Zhu Yuan,
+Lucy,Nekomata,Piper,
+Lucy,Piper,Soldier 11,
+Lucy,Piper,Zhu Yuan,
+Lucy,Soldier 11,Zhu Yuan,
+Lycaon,Rina,Soukaku,
+Lycaon,Rina,Zhu Yuan,
+Lycaon,Soukaku,Zhu Yuan,
+Nekomata,Nicole,Piper,
+Nekomata,Nicole,Zhu Yuan,
