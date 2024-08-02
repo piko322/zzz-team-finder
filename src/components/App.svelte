@@ -1,3 +1,7 @@
+<script context="module">
+	import Device from 'svelte-device-info'
+</script>
+
 <script>
 	import { onMount } from "svelte";
 	import { writable } from 'svelte/store';
@@ -145,7 +149,9 @@
 	}
 
 	function refocus() {
-		searchInput.focus();
+		if (!Device.isMobile) {
+			searchInput.focus();
+		}
 	}
 
 	// Reactive statement to filter teams when `checkedAgents` changes
@@ -181,9 +187,9 @@
 		});
 	}
 
-	// Reactive statement to keep the search input in focus
+	// Reactive statement to keep the search input in focus for PC users
 	$: {
-		if (searchInput) {
+		if (searchInput && !Device.isMobile) {
 			searchInput.focus();
 		}
 	}

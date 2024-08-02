@@ -19,6 +19,7 @@
   "type": "module",
   "dependencies": {
     "d3": "^7.8.5",
-    "papaparse": "^5.4.1"
+    "papaparse": "^5.4.1",
+    "svelte-device-info": "^1.0.5"
   }
 }
