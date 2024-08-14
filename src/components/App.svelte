@@ -197,7 +197,7 @@
 
 	
 	</script>
-	<title>ZZZ Team Finder v1.0</title>
+	<title>ZZZ Team Finder v1.1</title>
 	<main>
 		<div class='container'>
 			<div class='agent-selector'>
