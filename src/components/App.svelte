@@ -45,9 +45,9 @@
 					});
 					console.log('Data loaded.');
 					console.log('Parsed teams:', teams);
-					console.log('Agents:', Array.from(agents));
 					// Remove all empty strings strings and undefined values
 					agents = new Set(Array.from(agents).filter(agent => agent).sort());
+					console.log('Agents:', Array.from(agents));
 					filteredAgents.set(Array.from(agents));
 					dataLoaded = true;
 
