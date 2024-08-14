@@ -1,0 +1,12 @@
+24 June 2024
+1.0.0
+- Main release
+
+2 August 2024
+1.0.1
+- Fixed keyboard popping up for mobile users
+
+14 August 2024
+1.1.0
+- Added Seth, Qingyi, and Jane Doe
+- Fixed "undefined" and empty agent showing up
