@@ -5,6 +5,7 @@
 
 	<title>ZZZ Team Finder v1.1</title>
 	<main>
+		<body>
 		<div class='container'>
 			<div class='agent-selector'>
 				<div class="tabs">
@@ -62,6 +63,7 @@
 
 			
 		</div>
+	</body>
 	</main>
 	  
 
