@@ -1,0 +1,34 @@
+Agent,Element,Faction,FS,Can Defensive Assist
+Anby Soldier 0,Electric,Unknown Faction,Attack,True
+Anby,Electric,Cunning Hares,Stun,True
+Anton,Electric,Belobog Heavy Industries,Attack,True
+Astra Yao,Ether,Stars of Lyra,Support,False
+Ben,Fire,Belobog Heavy Industries,Defence,True
+Billy,Physical,Cunning Hares,Attack,False
+Burnice,Fire,Sons of Calydon,Anomaly,True
+Caesar,Physical,Sons of Calydon,Defence,True
+Corin,Physical,Victoria Housekeeping Co.,Attack,True
+Ellen,Ice,Victoria Housekeeping Co.,Attack,True
+Evelyn,Fire,Stars of Lyra,Attack,True
+Grace,Electric,Belobog Heavy Industries,Anomaly,False
+Harumasa,Electric,Section 6,Attack,True
+Hugo,Ice,Mockingbird,Attack,False
+Jane Doe,Physical,N.E.P.S.,Anomaly,True
+Koleda,Fire,Belobog Heavy Industries,Stun,True
+Lighter,Fire,Sons of Calydon,Stun,True
+Lucy,Fire,Sons of Calydon,Support,True
+Lycaon,Ice,Victoria Housekeeping Co.,Stun,True
+Miyabi,Frost,Section 6,Anomaly,True
+Nekomata,Physical,Cunning Hares,Attack,True
+Nicole,Ether,Cunning Hares,Support,True
+Piper,Physical,Sons of Calydon,Anomaly,True
+Pulchra,Physical,Sons of Calydon,Stun,False
+Qingyi,Electric,N.E.P.S.,Stun,True
+Rina,Electric,Victoria Housekeeping Co.,Support,False
+Seth,Electric,N.E.P.S.,Defence,True
+Soldier 11,Fire,OBOLS Squad,Attack,True
+Soukaku,Ice,Section 6,Support,True
+Trigger,Electric,OBOLS Squad,Stun,True
+Vivian,Ether,Mockingbird,Anomaly,False
+Yanagi,Electric,Section 6,Anomaly,True
+Zhu Yuan,Ether,N.E.P.S.,Attack,False
