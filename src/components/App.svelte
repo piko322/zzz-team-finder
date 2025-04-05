@@ -5,10 +5,6 @@
 
 	<title>ZZZ Team Finder v1.1</title>
 	<main>
-		<header>
-			<link rel="stylesheet" href="static/src/components/style.css">
-			<link rel="stylesheet" href="src/components/style.css">
-		</header>
 		<div class='container'>
 			<div class='agent-selector'>
 				<div class="tabs">
@@ -283,3 +279,174 @@
 
 
 </script>
+
+<style>
+	main {
+		display: flex; /* Use Flexbox for centering */
+		justify-content: center; /* Center items horizontally */
+		align-items: center; /* Center items vertically */
+		width: 100%;
+		height: 100%; /* Ensure it takes the full viewport height */
+		margin: 0 auto;
+		overflow-x: hidden;
+		overflow-y: hidden; /* Hide vertical scrollbar */
+	}
+
+	body {
+		background: #1e1e1e;
+	}
+
+	.container {
+		width: 90%; /* Set container to take up 80% of the viewport width */
+		display: grid;
+		justify-items: center; /* Center items horizontally */
+		grid-template-columns: 1fr 1fr; /* Adjust to make possible-teams wider */
+		max-width: 100%;
+		padding: 1em;
+		max-height: 900px;
+	}
+
+	.agent-selector, .possible-teams {
+		padding: 1em;
+		margin: 1em;
+		border: 5px solid #222; /* Optional: Add a border for visual separation */
+		border-radius: 40px; /* Optional: Add rounded corners */
+		box-shadow: 0px 0px 15px #111;
+		color:white;
+		min-width:500px;
+		max-width:600px;
+	}
+
+	.agent-selector {
+		background: #333; /* Optional: Add background color */
+		overflow-y: auto;
+		max-height: 750px;
+		min-height: 750px;
+		max-width: 100%;
+	}
+
+	.possible-teams {
+		background: #444; /* Optional: Add background color */
+
+	}
+
+	.button-group {
+		display: flex; /* Use Flexbox for button alignment */
+		justify-content: center; /* Center buttons horizontally */
+		margin-top: 1em;
+	}
+
+	.possible-teams h2, .possible-teams th {
+		position:sticky;
+		top: 0px;
+		
+	}
+
+	.possible-teams table {
+		justify-items: center;
+		overflow-y: scroll;
+		max-height: 650px;
+		display: block;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin: 0 auto; /* Center the table */
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+
+	.agent-grid {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr); /* 5 columns layout */
+		justify-items: center; /* Center images in their grid cells */
+		gap:1em;
+		row-gap: 0em;
+		margin-right: 0em; /* Space above the grid */
+
+		max-height: 600px;
+		overflow-y: auto; /* Allow scrolling if text is too long */
+	}
+
+	.agent-card {
+		text-align: center;
+	}
+
+	.agent-card img {
+		width: 100px; /* Adjust size as needed */
+		height: auto;
+		border-radius: 8px; /* Optional: Add rounded corners to images */
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visuals */
+		margin-bottom: 5px; /* Space between image and text */
+	}
+
+	.agent-card p {
+		margin: 0;
+		font-size: 14px; /* Adjust font size as needed */
+	}
+
+
+
+	.table-header {
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.button-group {
+		margin-top: 1em;
+	}
+
+	.tabs {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 1em;
+		width: 100%;
+	}
+
+	button {
+		margin-right: 0.5em;
+		padding: 0.5em 1em;
+		border: none;
+		border-radius: 4px;
+		background-color: #007bff;
+		color: white;
+		cursor: pointer;
+	}
+
+	button:hover {
+		background-color: #0056b3;
+	}
+
+	h1 {
+		color: #ff3e00;
+		text-transform: uppercase;
+		font-size: 4em;
+		font-weight: 100;
+		text-align: center;
+	}
+
+	h2 {
+		text-align: center;
+	}
+
+	th, td {
+		border: 1px solid #ddd;
+		text-align: left;
+	}
+
+	th {
+		background-color: #f4f4f4;
+		padding: 0.5em;
+		font-size: 1.2em;
+	}
+
+	td {
+		padding:1em;
+	}
+
+	.possible-teams table::-webkit-scrollbar {
+		display:none;
+	}
+	.agent-grid::-webkit-scrollbar {
+		display:none;
+	}
+</style>
