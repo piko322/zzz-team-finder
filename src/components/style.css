@@ -1,51 +1,51 @@
-
-main {
-	display: flex; /* Use Flexbox for centering */
-	justify-content: center; /* Center items horizontally */
-	align-items: center; /* Center items vertically */
-	width: 100%;
-	height: 100%; /* Ensure it takes the full viewport height */
-	margin: 0 auto;
-	overflow-x: hidden;
-	overflow-y: hidden; /* Hide vertical scrollbar */
+* {
+	user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-moz-user-drag: none;
+	-moz-user-select: none;
+	-o-user-drag: none;
+	-o-user-select: none;
+	-ms-user-drag: none;
+	-ms-user-select: none;
 }
 
 body {
+	display: flex;
 	background: #1e1e1e;
+	justify-content: center;
+	align-items: center;
 }
 
 .container {
 	width: 90%; /* Set container to take up 80% of the viewport width */
 	display: grid;
 	justify-items: center; /* Center items horizontally */
-	grid-template-columns: 1fr 1fr; /* Adjust to make possible-teams wider */
-	max-width: 100%;
-	padding: 1em;
-	max-height: 900px;
+	grid-template-columns: 1.2fr 1fr; /* Adjust to make possible-teams wider */
 }
 
 .agent-selector, .possible-teams {
-	padding: 1em;
-	margin: 1em;
+	display: block;
 	border: 5px solid #222; /* Optional: Add a border for visual separation */
 	border-radius: 40px; /* Optional: Add rounded corners */
 	box-shadow: 0px 0px 15px #111;
 	color:white;
-	min-width:500px;
-	max-width:600px;
+	margin: 1.5%;
+	padding-top: 2.5%;
+	
+	
 }
 
 .agent-selector {
 	background: #333; /* Optional: Add background color */
 	overflow-y: auto;
-	max-height: 750px;
-	min-height: 750px;
-	max-width: 100%;
+	height: 100%;
+	width: 90%;
 }
 
 .possible-teams {
 	background: #444; /* Optional: Add background color */
-
+	width: 90%;
 }
 
 .button-group {
@@ -54,21 +54,14 @@ body {
 	margin-top: 1em;
 }
 
-.possible-teams h2, .possible-teams th {
-	position:sticky;
-	top: 0px;
-	
-}
-
 .possible-teams table {
 	justify-items: center;
 	overflow-y: scroll;
-	max-height: 650px;
 	display: block;
-	padding-left: 1em;
-	padding-right: 1em;
-	margin: 0 auto; /* Center the table */
+	margin: 1%;
+	padding-top:2%;
 	width: 100%;
+	height:600px;
 	border-collapse: collapse;
 }
 
@@ -77,12 +70,17 @@ body {
 	display: grid;
 	grid-template-columns: repeat(5, 1fr); /* 5 columns layout */
 	justify-items: center; /* Center images in their grid cells */
-	gap:1em;
-	row-gap: 0em;
-	margin-right: 0em; /* Space above the grid */
-
-	max-height: 600px;
+	row-gap: 1em;
+	max-height: 550px;
 	overflow-y: auto; /* Allow scrolling if text is too long */
+	text-align: center;
+	margin: 2.5%;
+	padding: 2.5%;
+}
+
+.agent-grid img {
+	width: 85%; /* Adjust size as needed */
+	height: auto;
 }
 
 .agent-card {
@@ -90,10 +88,10 @@ body {
 }
 
 .agent-card img {
-	width: 100px; /* Adjust size as needed */
+	width: 85%; /* Adjust size as needed */
 	height: auto;
-	border-radius: 8px; /* Optional: Add rounded corners to images */
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visuals */
+	border: hidden;
+	border-radius: 20px; /* Optional: Add rounded corners to images */
 	margin-bottom: 5px; /* Space between image and text */
 }
 
@@ -102,7 +100,11 @@ body {
 	font-size: 14px; /* Adjust font size as needed */
 }
 
-
+img:hover {
+	box-shadow:0px 0px 30px #222; /* Optional: Add shadow for selected agent */
+	transform: translateY(-10px);
+	transition-duration: 0.15s;
+}
 
 .table-header {
 	font-weight: bold;
@@ -116,18 +118,38 @@ body {
 .tabs {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 1em;
+	align-content: center;
 	width: 100%;
 }
 
 button {
-	margin-right: 0.5em;
+	margin: auto;
 	padding: 0.5em 1em;
 	border: none;
 	border-radius: 4px;
 	background-color: #007bff;
 	color: white;
 	cursor: pointer;
+}
+
+.tabs button {
+	width: 44%;
+	background-color: #555;
+	color: white;
+	font-size: 1em;
+	border-radius: 40px;
+	cursor: pointer;
+} 
+
+.tabs button.active {
+	background-color: #444; /* Active tab color */
+	color: white;
+	border: 2px solid #bbbbbb; /* Active tab border color */
+	box-shadow: 0px 0px 15px #222; /* Optional: Add shadow for active tab */
+}
+
+.tabs button:hover {
+	background-color: #777; /* Darker shade on hover */
 }
 
 button:hover {
@@ -146,17 +168,6 @@ h2 {
 	text-align: center;
 }
 
-th, td {
-	border: 1px solid #ddd;
-	text-align: left;
-}
-
-th {
-	background-color: #f4f4f4;
-	padding: 0.5em;
-	font-size: 1.2em;
-}
-
 td {
 	padding:1em;
 }
@@ -164,6 +175,22 @@ td {
 .possible-teams table::-webkit-scrollbar {
 	display:none;
 }
+
+.agent-image {
+    width: 100px; /* Adjust size as needed */
+    cursor: pointer;
+    border: 2px solid transparent; /* Default border */
+    border-radius: 15px; /* Rounded corners */
+  }
+
+.owned .agent-image.selected {
+    border-color: #0088ff; /* Border color when selected */
+  }
+
+.mustHave .agent-image.selected {
+    border-color: #ff0000; /* Border color when selected */
+  }
+
 .agent-grid::-webkit-scrollbar {
 	display:none;
 }
