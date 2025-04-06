@@ -1,6 +1,6 @@
 <title>ZZZ Team Finder v1.6</title>
 <header>
-	<link rel="stylesheet" href="./src/components/style.css">
+	<link rel="stylesheet" href="style.css">
 </header>
 <body>
 	<div class='container'>
