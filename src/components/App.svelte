@@ -167,11 +167,11 @@
 		const width = window.innerWidth;
 		if (width < 500 || height < 750) {
 			alert("Sorry, but this app is not optimized for smaller screens.")
-		} else{
-			console.log('Fetching data');
-			fetchData();
-			loaded = true;
-		}
+		} 
+		console.log('Fetching data');
+		fetchData();
+		loaded = true;
+	
 	});
 
 	// Function to handle "Select All" button click
