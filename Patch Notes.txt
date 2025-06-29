@@ -15,3 +15,7 @@
 1.6.0
 - Scraped data for all new agents including Trigger
 - UI Overhaul
+
+29 June 2025
+2.6.0
+- Scraped data for all new agents including YiXuan and JuFuFU
