@@ -1,4 +1,4 @@
-<title>ZZZ Team Finder v1.6</title>
+<title>ZZZ Team Finder v2.0</title>
 <header>
 	<link rel="stylesheet" href="style.css">
 </header>

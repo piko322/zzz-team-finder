@@ -1,4 +1,5 @@
 Agent,Element,Faction,FS,Can Defensive Assist
+Alice Thymefield,Unknown,Unknown,Unknown,False
 Anby Soldier 0,Electric,Unknown Faction,Attack,True
 Anby,Electric,Cunning Hares,Stun,True
 Anton,Electric,Belobog Heavy Industries,Attack,True
@@ -12,15 +13,17 @@ Ellen,Ice,Victoria Housekeeping Co.,Attack,True
 Evelyn,Fire,Stars of Lyra,Attack,True
 Grace,Electric,Belobog Heavy Industries,Anomaly,False
 Harumasa,Electric,Section 6,Attack,True
-Hugo,Ice,Mockingbird,Attack,False
+Hugo,Ice,Mockingbird,Attack,True
 Jane Doe,Physical,N.E.P.S.,Anomaly,True
+Ju Fufu,Fire,Yunkui Summit,Stun,True
 Koleda,Fire,Belobog Heavy Industries,Stun,True
 Lighter,Fire,Sons of Calydon,Stun,True
 Lucy,Fire,Sons of Calydon,Support,True
 Lycaon,Ice,Victoria Housekeeping Co.,Stun,True
-Miyabi,Frost,Section 6,Anomaly,True
+Miyabi,Ice,Section 6,Anomaly,True
 Nekomata,Physical,Cunning Hares,Attack,True
 Nicole,Ether,Cunning Hares,Support,True
+Pan Yinhu,Physical,Yunkui Summit,Defence,True
 Piper,Physical,Sons of Calydon,Anomaly,True
 Pulchra,Physical,Sons of Calydon,Stun,False
 Qingyi,Electric,N.E.P.S.,Stun,True
@@ -29,6 +32,8 @@ Seth,Electric,N.E.P.S.,Defence,True
 Soldier 11,Fire,OBOLS Squad,Attack,True
 Soukaku,Ice,Section 6,Support,True
 Trigger,Electric,OBOLS Squad,Stun,True
-Vivian,Ether,Mockingbird,Anomaly,False
+Ukinami Yuzuha,Unknown,Unknown,Unknown,False
+Vivian,Ether,Mockingbird,Anomaly,True
 Yanagi,Electric,Section 6,Anomaly,True
+Yixuan,Ether,Yunkui Summit,Rupture,True
 Zhu Yuan,Ether,N.E.P.S.,Attack,False

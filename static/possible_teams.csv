@@ -3,9 +3,12 @@ Anby Soldier 0,Anby,Anton
 Anby Soldier 0,Anby,Astra Yao
 Anby Soldier 0,Anby,Billy
 Anby Soldier 0,Anby,Caesar
+Anby Soldier 0,Anby,Ellen
 Anby Soldier 0,Anby,Evelyn
 Anby Soldier 0,Anby,Grace
 Anby Soldier 0,Anby,Harumasa
+Anby Soldier 0,Anby,Hugo
+Anby Soldier 0,Anby,Ju Fufu
 Anby Soldier 0,Anby,Lighter
 Anby Soldier 0,Anby,Nekomata
 Anby Soldier 0,Anby,Nicole
@@ -14,7 +17,9 @@ Anby Soldier 0,Anby,Rina
 Anby Soldier 0,Anby,Seth
 Anby Soldier 0,Anby,Trigger
 Anby Soldier 0,Anby,Yanagi
+Anby Soldier 0,Anby,Yixuan
 Anby Soldier 0,Anton,Astra Yao
+Anby Soldier 0,Anton,Ju Fufu
 Anby Soldier 0,Anton,Koleda
 Anby Soldier 0,Anton,Lighter
 Anby Soldier 0,Anton,Pulchra
@@ -23,6 +28,7 @@ Anby Soldier 0,Anton,Trigger
 Anby Soldier 0,Astra Yao,Caesar
 Anby Soldier 0,Astra Yao,Evelyn
 Anby Soldier 0,Astra Yao,Grace
+Anby Soldier 0,Astra Yao,Ju Fufu
 Anby Soldier 0,Astra Yao,Lighter
 Anby Soldier 0,Astra Yao,Miyabi
 Anby Soldier 0,Astra Yao,Nicole
@@ -30,8 +36,11 @@ Anby Soldier 0,Astra Yao,Pulchra
 Anby Soldier 0,Astra Yao,Rina
 Anby Soldier 0,Astra Yao,Seth
 Anby Soldier 0,Astra Yao,Trigger
+Anby Soldier 0,Astra Yao,Vivian
 Anby Soldier 0,Astra Yao,Yanagi
+Anby Soldier 0,Astra Yao,Yixuan
 Anby Soldier 0,Astra Yao,Zhu Yuan
+Anby Soldier 0,Ben,Ju Fufu
 Anby Soldier 0,Ben,Koleda
 Anby Soldier 0,Ben,Lighter
 Anby Soldier 0,Ben,Lucy
@@ -40,6 +49,7 @@ Anby Soldier 0,Billy,Pulchra
 Anby Soldier 0,Burnice,Lighter
 Anby Soldier 0,Burnice,Lucy
 Anby Soldier 0,Burnice,Pulchra
+Anby Soldier 0,Caesar,Ju Fufu
 Anby Soldier 0,Caesar,Lighter
 Anby Soldier 0,Caesar,Lucy
 Anby Soldier 0,Caesar,Pulchra
@@ -48,26 +58,51 @@ Anby Soldier 0,Caesar,Trigger
 Anby Soldier 0,Corin,Lycaon
 Anby Soldier 0,Corin,Pulchra
 Anby Soldier 0,Corin,Rina
+Anby Soldier 0,Ellen,Ju Fufu
+Anby Soldier 0,Ellen,Lighter
 Anby Soldier 0,Ellen,Lycaon
+Anby Soldier 0,Ellen,Pulchra
 Anby Soldier 0,Ellen,Rina
 Anby Soldier 0,Ellen,Soukaku
+Anby Soldier 0,Ellen,Trigger
+Anby Soldier 0,Evelyn,Ju Fufu
 Anby Soldier 0,Evelyn,Koleda
 Anby Soldier 0,Evelyn,Lighter
 Anby Soldier 0,Evelyn,Lucy
 Anby Soldier 0,Evelyn,Pulchra
 Anby Soldier 0,Evelyn,Rina
 Anby Soldier 0,Evelyn,Trigger
+Anby Soldier 0,Grace,Ju Fufu
 Anby Soldier 0,Grace,Koleda
 Anby Soldier 0,Grace,Lighter
 Anby Soldier 0,Grace,Pulchra
 Anby Soldier 0,Grace,Rina
 Anby Soldier 0,Grace,Trigger
+Anby Soldier 0,Harumasa,Ju Fufu
 Anby Soldier 0,Harumasa,Lighter
 Anby Soldier 0,Harumasa,Pulchra
 Anby Soldier 0,Harumasa,Trigger
+Anby Soldier 0,Hugo,Ju Fufu
+Anby Soldier 0,Hugo,Lighter
+Anby Soldier 0,Hugo,Lycaon
+Anby Soldier 0,Hugo,Pulchra
+Anby Soldier 0,Hugo,Soukaku
+Anby Soldier 0,Hugo,Trigger
+Anby Soldier 0,Ju Fufu,Koleda
+Anby Soldier 0,Ju Fufu,Lighter
+Anby Soldier 0,Ju Fufu,Lucy
+Anby Soldier 0,Ju Fufu,Pan Yinhu
+Anby Soldier 0,Ju Fufu,Pulchra
+Anby Soldier 0,Ju Fufu,Rina
+Anby Soldier 0,Ju Fufu,Seth
+Anby Soldier 0,Ju Fufu,Soldier 11
+Anby Soldier 0,Ju Fufu,Trigger
+Anby Soldier 0,Ju Fufu,Yanagi
+Anby Soldier 0,Ju Fufu,Yixuan
 Anby Soldier 0,Koleda,Lighter
 Anby Soldier 0,Koleda,Lucy
 Anby Soldier 0,Koleda,Soldier 11
+Anby Soldier 0,Koleda,Yixuan
 Anby Soldier 0,Lighter,Lucy
 Anby Soldier 0,Lighter,Piper
 Anby Soldier 0,Lighter,Pulchra
@@ -76,36 +111,46 @@ Anby Soldier 0,Lighter,Seth
 Anby Soldier 0,Lighter,Soldier 11
 Anby Soldier 0,Lighter,Trigger
 Anby Soldier 0,Lighter,Yanagi
+Anby Soldier 0,Lighter,Yixuan
 Anby Soldier 0,Lucy,Piper
 Anby Soldier 0,Lucy,Pulchra
 Anby Soldier 0,Lucy,Soldier 11
+Anby Soldier 0,Lucy,Yixuan
 Anby Soldier 0,Lycaon,Rina
 Anby Soldier 0,Lycaon,Soukaku
 Anby Soldier 0,Miyabi,Rina
 Anby Soldier 0,Miyabi,Soukaku
 Anby Soldier 0,Nekomata,Nicole
 Anby Soldier 0,Nekomata,Pulchra
+Anby Soldier 0,Nicole,Vivian
+Anby Soldier 0,Nicole,Yixuan
 Anby Soldier 0,Nicole,Zhu Yuan
 Anby Soldier 0,Piper,Pulchra
 Anby Soldier 0,Pulchra,Rina
 Anby Soldier 0,Pulchra,Seth
 Anby Soldier 0,Pulchra,Trigger
 Anby Soldier 0,Pulchra,Yanagi
+Anby Soldier 0,Pulchra,Yixuan
 Anby Soldier 0,Rina,Seth
 Anby Soldier 0,Rina,Trigger
 Anby Soldier 0,Rina,Yanagi
+Anby Soldier 0,Rina,Yixuan
 Anby Soldier 0,Rina,Zhu Yuan
 Anby Soldier 0,Seth,Trigger
 Anby Soldier 0,Soldier 11,Trigger
 Anby Soldier 0,Soukaku,Yanagi
 Anby Soldier 0,Trigger,Yanagi
+Anby Soldier 0,Trigger,Yixuan
 Anby,Anton,Astra Yao
 Anby,Anton,Ben
 Anby,Anton,Billy
 Anby,Anton,Caesar
+Anby,Anton,Ellen
 Anby,Anton,Evelyn
 Anby,Anton,Grace
 Anby,Anton,Harumasa
+Anby,Anton,Hugo
+Anby,Anton,Ju Fufu
 Anby,Anton,Koleda
 Anby,Anton,Lighter
 Anby,Anton,Nekomata
@@ -115,6 +160,7 @@ Anby,Anton,Rina
 Anby,Anton,Seth
 Anby,Anton,Trigger
 Anby,Anton,Yanagi
+Anby,Anton,Yixuan
 Anby,Astra Yao,Billy
 Anby,Astra Yao,Grace
 Anby,Astra Yao,Harumasa
@@ -123,9 +169,12 @@ Anby,Astra Yao,Yanagi
 Anby,Ben,Grace
 Anby,Billy,Caesar
 Anby,Billy,Corin
+Anby,Billy,Ellen
 Anby,Billy,Evelyn
 Anby,Billy,Grace
 Anby,Billy,Harumasa
+Anby,Billy,Hugo
+Anby,Billy,Ju Fufu
 Anby,Billy,Lighter
 Anby,Billy,Nekomata
 Anby,Billy,Nicole
@@ -135,6 +184,7 @@ Anby,Billy,Rina
 Anby,Billy,Seth
 Anby,Billy,Trigger
 Anby,Billy,Yanagi
+Anby,Billy,Yixuan
 Anby,Burnice,Grace
 Anby,Burnice,Yanagi
 Anby,Caesar,Grace
@@ -147,7 +197,14 @@ Anby,Caesar,Trigger
 Anby,Caesar,Yanagi
 Anby,Corin,Nekomata
 Anby,Corin,Rina
+Anby,Ellen,Grace
+Anby,Ellen,Harumasa
+Anby,Ellen,Nekomata
+Anby,Ellen,Nicole
 Anby,Ellen,Rina
+Anby,Ellen,Seth
+Anby,Ellen,Trigger
+Anby,Ellen,Yanagi
 Anby,Evelyn,Grace
 Anby,Evelyn,Harumasa
 Anby,Evelyn,Nekomata
@@ -157,13 +214,18 @@ Anby,Evelyn,Seth
 Anby,Evelyn,Trigger
 Anby,Evelyn,Yanagi
 Anby,Grace,Harumasa
+Anby,Grace,Hugo
 Anby,Grace,Koleda
 Anby,Grace,Nekomata
 Anby,Grace,Nicole
 Anby,Grace,Rina
 Anby,Grace,Seth
 Anby,Grace,Trigger
+Anby,Grace,Vivian
 Anby,Grace,Yanagi
+Anby,Grace,Yixuan
+Anby,Harumasa,Hugo
+Anby,Harumasa,Ju Fufu
 Anby,Harumasa,Lighter
 Anby,Harumasa,Miyabi
 Anby,Harumasa,Nekomata
@@ -174,6 +236,14 @@ Anby,Harumasa,Seth
 Anby,Harumasa,Soukaku
 Anby,Harumasa,Trigger
 Anby,Harumasa,Yanagi
+Anby,Harumasa,Yixuan
+Anby,Hugo,Nekomata
+Anby,Hugo,Nicole
+Anby,Hugo,Rina
+Anby,Hugo,Seth
+Anby,Hugo,Trigger
+Anby,Hugo,Yanagi
+Anby,Ju Fufu,Nekomata
 Anby,Lighter,Nekomata
 Anby,Lycaon,Rina
 Anby,Miyabi,Nicole
@@ -186,21 +256,29 @@ Anby,Nekomata,Rina
 Anby,Nekomata,Seth
 Anby,Nekomata,Trigger
 Anby,Nekomata,Yanagi
+Anby,Nekomata,Yixuan
 Anby,Nicole,Rina
 Anby,Nicole,Seth
 Anby,Nicole,Trigger
+Anby,Nicole,Vivian
 Anby,Nicole,Yanagi
+Anby,Nicole,Yixuan
 Anby,Nicole,Zhu Yuan
 Anby,Rina,Seth
 Anby,Rina,Trigger
 Anby,Rina,Yanagi
+Anby,Rina,Yixuan
 Anby,Rina,Zhu Yuan
 Anby,Seth,Trigger
 Anby,Seth,Yanagi
+Anby,Seth,Yixuan
 Anby,Seth,Zhu Yuan
 Anby,Soldier 11,Trigger
 Anby,Soukaku,Yanagi
 Anby,Trigger,Yanagi
+Anby,Trigger,Yixuan
+Anby,Vivian,Yanagi
+Anby,Yanagi,Yixuan
 Anton,Astra Yao,Ben
 Anton,Astra Yao,Grace
 Anton,Astra Yao,Koleda
@@ -210,6 +288,7 @@ Anton,Astra Yao,Trigger
 Anton,Astra Yao,Yanagi
 Anton,Ben,Caesar
 Anton,Ben,Grace
+Anton,Ben,Ju Fufu
 Anton,Ben,Koleda
 Anton,Ben,Lighter
 Anton,Ben,Lucy
@@ -228,24 +307,36 @@ Anton,Caesar,Seth
 Anton,Caesar,Trigger
 Anton,Caesar,Yanagi
 Anton,Corin,Rina
+Anton,Ellen,Koleda
 Anton,Ellen,Rina
+Anton,Ellen,Trigger
 Anton,Evelyn,Koleda
 Anton,Evelyn,Rina
 Anton,Evelyn,Trigger
 Anton,Grace,Harumasa
+Anton,Grace,Ju Fufu
 Anton,Grace,Koleda
 Anton,Grace,Lighter
 Anton,Grace,Pulchra
 Anton,Grace,Rina
 Anton,Grace,Seth
 Anton,Grace,Trigger
+Anton,Grace,Vivian
 Anton,Grace,Yanagi
+Anton,Harumasa,Ju Fufu
 Anton,Harumasa,Koleda
 Anton,Harumasa,Lighter
 Anton,Harumasa,Miyabi
 Anton,Harumasa,Pulchra
 Anton,Harumasa,Trigger
 Anton,Harumasa,Yanagi
+Anton,Hugo,Koleda
+Anton,Hugo,Trigger
+Anton,Ju Fufu,Koleda
+Anton,Ju Fufu,Rina
+Anton,Ju Fufu,Seth
+Anton,Ju Fufu,Trigger
+Anton,Ju Fufu,Yanagi
 Anton,Koleda,Lighter
 Anton,Koleda,Lucy
 Anton,Koleda,Pulchra
@@ -254,6 +345,7 @@ Anton,Koleda,Seth
 Anton,Koleda,Soldier 11
 Anton,Koleda,Trigger
 Anton,Koleda,Yanagi
+Anton,Koleda,Yixuan
 Anton,Lighter,Rina
 Anton,Lighter,Seth
 Anton,Lighter,Trigger
@@ -268,6 +360,7 @@ Anton,Pulchra,Yanagi
 Anton,Rina,Seth
 Anton,Rina,Trigger
 Anton,Rina,Yanagi
+Anton,Rina,Yixuan
 Anton,Rina,Zhu Yuan
 Anton,Seth,Trigger
 Anton,Seth,Yanagi
@@ -275,6 +368,8 @@ Anton,Seth,Zhu Yuan
 Anton,Soldier 11,Trigger
 Anton,Soukaku,Yanagi
 Anton,Trigger,Yanagi
+Anton,Trigger,Yixuan
+Anton,Vivian,Yanagi
 Astra Yao,Ben,Evelyn
 Astra Yao,Ben,Grace
 Astra Yao,Ben,Soldier 11
@@ -289,21 +384,31 @@ Astra Yao,Burnice,Lucy
 Astra Yao,Burnice,Miyabi
 Astra Yao,Burnice,Piper
 Astra Yao,Burnice,Pulchra
+Astra Yao,Burnice,Vivian
 Astra Yao,Burnice,Yanagi
 Astra Yao,Caesar,Corin
 Astra Yao,Caesar,Evelyn
 Astra Yao,Caesar,Miyabi
 Astra Yao,Caesar,Nekomata
 Astra Yao,Caesar,Piper
+Astra Yao,Caesar,Vivian
+Astra Yao,Caesar,Yixuan
 Astra Yao,Corin,Ellen
 Astra Yao,Corin,Lycaon
 Astra Yao,Corin,Nekomata
 Astra Yao,Corin,Piper
 Astra Yao,Corin,Pulchra
 Astra Yao,Corin,Rina
+Astra Yao,Ellen,Hugo
+Astra Yao,Ellen,Ju Fufu
+Astra Yao,Ellen,Lighter
 Astra Yao,Ellen,Lycaon
+Astra Yao,Ellen,Miyabi
+Astra Yao,Ellen,Pulchra
 Astra Yao,Ellen,Rina
 Astra Yao,Ellen,Soukaku
+Astra Yao,Ellen,Trigger
+Astra Yao,Evelyn,Ju Fufu
 Astra Yao,Evelyn,Koleda
 Astra Yao,Evelyn,Lighter
 Astra Yao,Evelyn,Lucy
@@ -312,6 +417,8 @@ Astra Yao,Evelyn,Nicole
 Astra Yao,Evelyn,Pulchra
 Astra Yao,Evelyn,Soldier 11
 Astra Yao,Evelyn,Trigger
+Astra Yao,Evelyn,Vivian
+Astra Yao,Evelyn,Yixuan
 Astra Yao,Evelyn,Zhu Yuan
 Astra Yao,Grace,Harumasa
 Astra Yao,Grace,Koleda
@@ -319,26 +426,47 @@ Astra Yao,Grace,Rina
 Astra Yao,Grace,Seth
 Astra Yao,Grace,Trigger
 Astra Yao,Grace,Yanagi
+Astra Yao,Harumasa,Ju Fufu
 Astra Yao,Harumasa,Lighter
 Astra Yao,Harumasa,Miyabi
 Astra Yao,Harumasa,Pulchra
 Astra Yao,Harumasa,Trigger
+Astra Yao,Harumasa,Vivian
 Astra Yao,Harumasa,Yanagi
+Astra Yao,Hugo,Ju Fufu
+Astra Yao,Hugo,Lighter
+Astra Yao,Hugo,Lycaon
+Astra Yao,Hugo,Miyabi
+Astra Yao,Hugo,Pulchra
+Astra Yao,Hugo,Soukaku
+Astra Yao,Hugo,Trigger
+Astra Yao,Ju Fufu,Soldier 11
+Astra Yao,Ju Fufu,Yixuan
+Astra Yao,Ju Fufu,Zhu Yuan
 Astra Yao,Koleda,Soldier 11
+Astra Yao,Koleda,Yixuan
 Astra Yao,Lighter,Piper
 Astra Yao,Lighter,Soldier 11
 Astra Yao,Lighter,Zhu Yuan
 Astra Yao,Lucy,Piper
 Astra Yao,Lucy,Soldier 11
+Astra Yao,Lucy,Yixuan
+Astra Yao,Lycaon,Miyabi
 Astra Yao,Miyabi,Nicole
 Astra Yao,Miyabi,Soukaku
+Astra Yao,Miyabi,Vivian
 Astra Yao,Miyabi,Yanagi
+Astra Yao,Miyabi,Yixuan
 Astra Yao,Miyabi,Zhu Yuan
 Astra Yao,Nekomata,Nicole
 Astra Yao,Nekomata,Piper
 Astra Yao,Nekomata,Pulchra
+Astra Yao,Nicole,Vivian
+Astra Yao,Nicole,Yixuan
 Astra Yao,Nicole,Zhu Yuan
+Astra Yao,Pan Yinhu,Yixuan
 Astra Yao,Piper,Pulchra
+Astra Yao,Pulchra,Yixuan
 Astra Yao,Pulchra,Zhu Yuan
 Astra Yao,Rina,Yanagi
 Astra Yao,Seth,Yanagi
@@ -346,18 +474,27 @@ Astra Yao,Seth,Zhu Yuan
 Astra Yao,Soldier 11,Trigger
 Astra Yao,Trigger,Yanagi
 Astra Yao,Trigger,Zhu Yuan
+Astra Yao,Vivian,Yanagi
+Astra Yao,Vivian,Yixuan
+Astra Yao,Vivian,Zhu Yuan
+Astra Yao,Yixuan,Zhu Yuan
 Ben,Burnice,Caesar
 Ben,Burnice,Grace
 Ben,Burnice,Lighter
 Ben,Burnice,Lucy
 Ben,Burnice,Piper
 Ben,Burnice,Pulchra
+Ben,Burnice,Vivian
 Ben,Burnice,Yanagi
 Ben,Caesar,Grace
 Ben,Caesar,Koleda
 Ben,Caesar,Lighter
 Ben,Caesar,Lucy
 Ben,Caesar,Soldier 11
+Ben,Ellen,Ju Fufu
+Ben,Ellen,Koleda
+Ben,Ellen,Lighter
+Ben,Evelyn,Ju Fufu
 Ben,Evelyn,Koleda
 Ben,Evelyn,Lighter
 Ben,Evelyn,Lucy
@@ -370,11 +507,19 @@ Ben,Grace,Rina
 Ben,Grace,Seth
 Ben,Grace,Soldier 11
 Ben,Grace,Trigger
+Ben,Grace,Vivian
 Ben,Grace,Yanagi
+Ben,Harumasa,Ju Fufu
 Ben,Harumasa,Koleda
 Ben,Harumasa,Lighter
+Ben,Hugo,Ju Fufu
+Ben,Hugo,Koleda
+Ben,Hugo,Lighter
+Ben,Ju Fufu,Soldier 11
+Ben,Ju Fufu,Yixuan
 Ben,Koleda,Lucy
 Ben,Koleda,Soldier 11
+Ben,Koleda,Yixuan
 Ben,Lighter,Lucy
 Ben,Lighter,Piper
 Ben,Lighter,Pulchra
@@ -383,6 +528,7 @@ Ben,Lucy,Miyabi
 Ben,Lucy,Piper
 Ben,Lucy,Pulchra
 Ben,Lucy,Soldier 11
+Ben,Lucy,Yixuan
 Ben,Lucy,Zhu Yuan
 Ben,Pulchra,Soldier 11
 Ben,Soldier 11,Trigger
@@ -390,6 +536,7 @@ Billy,Burnice,Caesar
 Billy,Burnice,Piper
 Billy,Burnice,Pulchra
 Billy,Caesar,Corin
+Billy,Caesar,Ju Fufu
 Billy,Caesar,Lighter
 Billy,Caesar,Lucy
 Billy,Caesar,Nekomata
@@ -398,6 +545,7 @@ Billy,Caesar,Piper
 Billy,Caesar,Pulchra
 Billy,Caesar,Trigger
 Billy,Corin,Ellen
+Billy,Corin,Ju Fufu
 Billy,Corin,Lighter
 Billy,Corin,Lycaon
 Billy,Corin,Nekomata
@@ -406,10 +554,17 @@ Billy,Corin,Piper
 Billy,Corin,Pulchra
 Billy,Corin,Rina
 Billy,Corin,Trigger
+Billy,Ellen,Pulchra
 Billy,Evelyn,Nicole
 Billy,Evelyn,Pulchra
 Billy,Harumasa,Piper
 Billy,Harumasa,Pulchra
+Billy,Hugo,Pulchra
+Billy,Ju Fufu,Nekomata
+Billy,Ju Fufu,Nicole
+Billy,Ju Fufu,Pan Yinhu
+Billy,Ju Fufu,Piper
+Billy,Ju Fufu,Pulchra
 Billy,Lighter,Nekomata
 Billy,Lighter,Nicole
 Billy,Lighter,Piper
@@ -424,11 +579,15 @@ Billy,Nekomata,Trigger
 Billy,Nicole,Piper
 Billy,Nicole,Pulchra
 Billy,Nicole,Trigger
+Billy,Nicole,Vivian
+Billy,Nicole,Yixuan
 Billy,Nicole,Zhu Yuan
 Billy,Piper,Pulchra
 Billy,Piper,Trigger
+Billy,Piper,Vivian
 Billy,Piper,Yanagi
 Billy,Pulchra,Trigger
+Billy,Pulchra,Yixuan
 Burnice,Caesar,Corin
 Burnice,Caesar,Harumasa
 Burnice,Caesar,Koleda
@@ -438,9 +597,12 @@ Burnice,Caesar,Nekomata
 Burnice,Caesar,Piper
 Burnice,Caesar,Pulchra
 Burnice,Caesar,Soldier 11
+Burnice,Caesar,Vivian
 Burnice,Caesar,Yanagi
 Burnice,Corin,Piper
 Burnice,Corin,Pulchra
+Burnice,Ellen,Lighter
+Burnice,Ellen,Pulchra
 Burnice,Evelyn,Lighter
 Burnice,Evelyn,Lucy
 Burnice,Evelyn,Pulchra
@@ -455,38 +617,53 @@ Burnice,Harumasa,Lucy
 Burnice,Harumasa,Miyabi
 Burnice,Harumasa,Piper
 Burnice,Harumasa,Pulchra
+Burnice,Harumasa,Vivian
 Burnice,Harumasa,Yanagi
+Burnice,Hugo,Lighter
+Burnice,Hugo,Pulchra
 Burnice,Koleda,Lighter
 Burnice,Koleda,Lucy
 Burnice,Koleda,Piper
 Burnice,Koleda,Pulchra
+Burnice,Koleda,Vivian
 Burnice,Koleda,Yanagi
 Burnice,Lighter,Lucy
 Burnice,Lighter,Piper
 Burnice,Lighter,Pulchra
 Burnice,Lighter,Soldier 11
+Burnice,Lighter,Vivian
 Burnice,Lighter,Yanagi
+Burnice,Lighter,Yixuan
 Burnice,Lucy,Miyabi
 Burnice,Lucy,Piper
 Burnice,Lucy,Pulchra
 Burnice,Lucy,Soldier 11
+Burnice,Lucy,Vivian
 Burnice,Lucy,Yanagi
+Burnice,Lucy,Yixuan
 Burnice,Lucy,Zhu Yuan
 Burnice,Miyabi,Soukaku
 Burnice,Miyabi,Yanagi
 Burnice,Nekomata,Piper
 Burnice,Nekomata,Pulchra
+Burnice,Nicole,Vivian
 Burnice,Piper,Pulchra
 Burnice,Piper,Soldier 11
+Burnice,Piper,Vivian
 Burnice,Piper,Yanagi
 Burnice,Pulchra,Soldier 11
+Burnice,Pulchra,Vivian
 Burnice,Pulchra,Yanagi
+Burnice,Pulchra,Yixuan
 Burnice,Rina,Yanagi
 Burnice,Seth,Yanagi
+Burnice,Soldier 11,Vivian
 Burnice,Soldier 11,Yanagi
 Burnice,Soukaku,Yanagi
 Burnice,Trigger,Yanagi
+Burnice,Vivian,Yanagi
 Caesar,Corin,Ellen
+Caesar,Corin,Ju Fufu
 Caesar,Corin,Lighter
 Caesar,Corin,Lucy
 Caesar,Corin,Lycaon
@@ -495,9 +672,15 @@ Caesar,Corin,Piper
 Caesar,Corin,Pulchra
 Caesar,Corin,Rina
 Caesar,Corin,Trigger
+Caesar,Ellen,Hugo
+Caesar,Ellen,Ju Fufu
+Caesar,Ellen,Lighter
 Caesar,Ellen,Lycaon
+Caesar,Ellen,Pulchra
 Caesar,Ellen,Rina
 Caesar,Ellen,Soukaku
+Caesar,Ellen,Trigger
+Caesar,Evelyn,Ju Fufu
 Caesar,Evelyn,Koleda
 Caesar,Evelyn,Lighter
 Caesar,Evelyn,Lucy
@@ -508,25 +691,38 @@ Caesar,Grace,Koleda
 Caesar,Grace,Seth
 Caesar,Grace,Trigger
 Caesar,Grace,Yanagi
+Caesar,Harumasa,Ju Fufu
 Caesar,Harumasa,Lighter
 Caesar,Harumasa,Miyabi
 Caesar,Harumasa,Piper
 Caesar,Harumasa,Pulchra
 Caesar,Harumasa,Trigger
 Caesar,Harumasa,Yanagi
+Caesar,Hugo,Ju Fufu
+Caesar,Hugo,Lighter
+Caesar,Hugo,Lycaon
+Caesar,Hugo,Pulchra
+Caesar,Hugo,Soukaku
+Caesar,Hugo,Trigger
+Caesar,Ju Fufu,Nekomata
+Caesar,Ju Fufu,Soldier 11
+Caesar,Ju Fufu,Yixuan
 Caesar,Koleda,Lighter
 Caesar,Koleda,Lucy
 Caesar,Koleda,Soldier 11
+Caesar,Koleda,Yixuan
 Caesar,Lighter,Lucy
 Caesar,Lighter,Nekomata
 Caesar,Lighter,Piper
 Caesar,Lighter,Pulchra
 Caesar,Lighter,Soldier 11
+Caesar,Lighter,Yixuan
 Caesar,Lucy,Miyabi
 Caesar,Lucy,Nekomata
 Caesar,Lucy,Piper
 Caesar,Lucy,Pulchra
 Caesar,Lucy,Soldier 11
+Caesar,Lucy,Yixuan
 Caesar,Lucy,Zhu Yuan
 Caesar,Lycaon,Rina
 Caesar,Lycaon,Soukaku
@@ -536,9 +732,13 @@ Caesar,Nekomata,Nicole
 Caesar,Nekomata,Piper
 Caesar,Nekomata,Pulchra
 Caesar,Nekomata,Trigger
+Caesar,Nicole,Vivian
+Caesar,Nicole,Yixuan
 Caesar,Nicole,Zhu Yuan
 Caesar,Piper,Pulchra
+Caesar,Piper,Vivian
 Caesar,Piper,Yanagi
+Caesar,Pulchra,Yixuan
 Caesar,Rina,Seth
 Caesar,Rina,Trigger
 Caesar,Rina,Yanagi
@@ -547,6 +747,9 @@ Caesar,Seth,Yanagi
 Caesar,Seth,Zhu Yuan
 Caesar,Soldier 11,Trigger
 Caesar,Trigger,Yanagi
+Caesar,Vivian,Yanagi
+Corin,Ellen,Hugo
+Corin,Ellen,Ju Fufu
 Corin,Ellen,Lighter
 Corin,Ellen,Lycaon
 Corin,Ellen,Nekomata
@@ -562,6 +765,14 @@ Corin,Grace,Rina
 Corin,Harumasa,Lycaon
 Corin,Harumasa,Piper
 Corin,Harumasa,Pulchra
+Corin,Hugo,Lycaon
+Corin,Hugo,Pulchra
+Corin,Ju Fufu,Lycaon
+Corin,Ju Fufu,Nekomata
+Corin,Ju Fufu,Pan Yinhu
+Corin,Ju Fufu,Piper
+Corin,Ju Fufu,Pulchra
+Corin,Ju Fufu,Rina
 Corin,Lighter,Lycaon
 Corin,Lighter,Nekomata
 Corin,Lighter,Piper
@@ -575,6 +786,7 @@ Corin,Lycaon,Pulchra
 Corin,Lycaon,Rina
 Corin,Lycaon,Soukaku
 Corin,Lycaon,Trigger
+Corin,Lycaon,Yixuan
 Corin,Miyabi,Rina
 Corin,Nekomata,Nicole
 Corin,Nekomata,Piper
@@ -584,74 +796,154 @@ Corin,Nekomata,Trigger
 Corin,Piper,Pulchra
 Corin,Piper,Rina
 Corin,Piper,Trigger
+Corin,Piper,Vivian
 Corin,Piper,Yanagi
 Corin,Pulchra,Rina
 Corin,Pulchra,Trigger
+Corin,Pulchra,Yixuan
 Corin,Rina,Seth
 Corin,Rina,Trigger
 Corin,Rina,Yanagi
+Corin,Rina,Yixuan
 Corin,Rina,Zhu Yuan
+Ellen,Evelyn,Ju Fufu
+Ellen,Evelyn,Koleda
+Ellen,Evelyn,Lighter
 Ellen,Evelyn,Lycaon
+Ellen,Evelyn,Pulchra
 Ellen,Evelyn,Rina
 Ellen,Evelyn,Soukaku
+Ellen,Evelyn,Trigger
+Ellen,Grace,Koleda
 Ellen,Grace,Rina
+Ellen,Grace,Trigger
+Ellen,Harumasa,Ju Fufu
+Ellen,Harumasa,Lighter
 Ellen,Harumasa,Lycaon
+Ellen,Harumasa,Miyabi
+Ellen,Harumasa,Pulchra
+Ellen,Harumasa,Trigger
+Ellen,Hugo,Ju Fufu
+Ellen,Hugo,Lighter
+Ellen,Hugo,Lycaon
+Ellen,Hugo,Pulchra
+Ellen,Hugo,Rina
+Ellen,Hugo,Soukaku
+Ellen,Hugo,Trigger
+Ellen,Ju Fufu,Koleda
+Ellen,Ju Fufu,Lighter
+Ellen,Ju Fufu,Lucy
+Ellen,Ju Fufu,Lycaon
+Ellen,Ju Fufu,Pan Yinhu
+Ellen,Ju Fufu,Pulchra
+Ellen,Ju Fufu,Rina
+Ellen,Ju Fufu,Soldier 11
+Ellen,Ju Fufu,Soukaku
+Ellen,Ju Fufu,Trigger
+Ellen,Ju Fufu,Yixuan
+Ellen,Koleda,Lighter
+Ellen,Koleda,Lucy
+Ellen,Koleda,Soldier 11
+Ellen,Koleda,Yixuan
+Ellen,Lighter,Lucy
 Ellen,Lighter,Lycaon
+Ellen,Lighter,Piper
+Ellen,Lighter,Pulchra
 Ellen,Lighter,Rina
+Ellen,Lighter,Soldier 11
 Ellen,Lighter,Soukaku
+Ellen,Lighter,Trigger
+Ellen,Lighter,Yixuan
+Ellen,Lucy,Pulchra
 Ellen,Lycaon,Pulchra
 Ellen,Lycaon,Rina
 Ellen,Lycaon,Soukaku
 Ellen,Lycaon,Trigger
+Ellen,Lycaon,Yixuan
 Ellen,Miyabi,Rina
 Ellen,Miyabi,Soukaku
+Ellen,Miyabi,Yanagi
+Ellen,Nekomata,Pulchra
+Ellen,Piper,Pulchra
 Ellen,Pulchra,Rina
 Ellen,Pulchra,Soukaku
+Ellen,Pulchra,Trigger
+Ellen,Pulchra,Yixuan
 Ellen,Rina,Seth
 Ellen,Rina,Soukaku
 Ellen,Rina,Trigger
 Ellen,Rina,Yanagi
+Ellen,Rina,Yixuan
 Ellen,Rina,Zhu Yuan
+Ellen,Seth,Trigger
+Ellen,Soldier 11,Trigger
 Ellen,Soukaku,Trigger
+Ellen,Soukaku,Yixuan
 Ellen,Soukaku,Zhu Yuan
+Ellen,Trigger,Yanagi
+Ellen,Trigger,Yixuan
 Evelyn,Grace,Koleda
 Evelyn,Grace,Rina
 Evelyn,Grace,Trigger
+Evelyn,Harumasa,Ju Fufu
 Evelyn,Harumasa,Koleda
 Evelyn,Harumasa,Lighter
 Evelyn,Harumasa,Pulchra
 Evelyn,Harumasa,Trigger
+Evelyn,Hugo,Ju Fufu
+Evelyn,Hugo,Koleda
+Evelyn,Hugo,Lighter
+Evelyn,Hugo,Lycaon
+Evelyn,Hugo,Pulchra
+Evelyn,Hugo,Soukaku
+Evelyn,Hugo,Trigger
+Evelyn,Ju Fufu,Koleda
+Evelyn,Ju Fufu,Lighter
+Evelyn,Ju Fufu,Lucy
+Evelyn,Ju Fufu,Pan Yinhu
+Evelyn,Ju Fufu,Pulchra
+Evelyn,Ju Fufu,Soldier 11
+Evelyn,Ju Fufu,Trigger
+Evelyn,Ju Fufu,Yixuan
 Evelyn,Koleda,Lighter
 Evelyn,Koleda,Lucy
 Evelyn,Koleda,Pulchra
 Evelyn,Koleda,Soldier 11
 Evelyn,Koleda,Trigger
+Evelyn,Koleda,Yixuan
 Evelyn,Lighter,Lucy
 Evelyn,Lighter,Piper
 Evelyn,Lighter,Pulchra
 Evelyn,Lighter,Soldier 11
 Evelyn,Lighter,Trigger
+Evelyn,Lighter,Yixuan
 Evelyn,Lucy,Miyabi
 Evelyn,Lucy,Piper
 Evelyn,Lucy,Pulchra
 Evelyn,Lucy,Soldier 11
 Evelyn,Lucy,Trigger
+Evelyn,Lucy,Yixuan
 Evelyn,Lucy,Zhu Yuan
 Evelyn,Lycaon,Rina
 Evelyn,Lycaon,Soukaku
 Evelyn,Miyabi,Soukaku
 Evelyn,Nekomata,Nicole
 Evelyn,Nekomata,Pulchra
+Evelyn,Nicole,Vivian
+Evelyn,Nicole,Yixuan
 Evelyn,Nicole,Zhu Yuan
 Evelyn,Piper,Pulchra
 Evelyn,Pulchra,Soldier 11
 Evelyn,Pulchra,Trigger
+Evelyn,Pulchra,Yixuan
 Evelyn,Rina,Seth
 Evelyn,Rina,Trigger
 Evelyn,Rina,Yanagi
 Evelyn,Seth,Trigger
 Evelyn,Soldier 11,Trigger
 Evelyn,Trigger,Yanagi
+Evelyn,Trigger,Yixuan
+Grace,Harumasa,Ju Fufu
 Grace,Harumasa,Koleda
 Grace,Harumasa,Lighter
 Grace,Harumasa,Miyabi
@@ -660,29 +952,60 @@ Grace,Harumasa,Rina
 Grace,Harumasa,Seth
 Grace,Harumasa,Soukaku
 Grace,Harumasa,Trigger
+Grace,Harumasa,Vivian
 Grace,Harumasa,Yanagi
+Grace,Hugo,Koleda
+Grace,Hugo,Trigger
 Grace,Koleda,Lucy
 Grace,Koleda,Rina
 Grace,Koleda,Seth
 Grace,Koleda,Soldier 11
 Grace,Koleda,Trigger
+Grace,Koleda,Vivian
 Grace,Koleda,Yanagi
+Grace,Koleda,Yixuan
 Grace,Lycaon,Rina
 Grace,Miyabi,Rina
 Grace,Miyabi,Yanagi
 Grace,Rina,Seth
 Grace,Rina,Trigger
+Grace,Rina,Vivian
 Grace,Rina,Yanagi
+Grace,Rina,Yixuan
 Grace,Rina,Zhu Yuan
 Grace,Seth,Trigger
+Grace,Seth,Vivian
 Grace,Seth,Yanagi
 Grace,Seth,Zhu Yuan
 Grace,Soldier 11,Trigger
 Grace,Soukaku,Yanagi
+Grace,Trigger,Vivian
 Grace,Trigger,Yanagi
+Grace,Trigger,Yixuan
+Grace,Vivian,Yanagi
+Harumasa,Hugo,Ju Fufu
+Harumasa,Hugo,Lighter
+Harumasa,Hugo,Lycaon
+Harumasa,Hugo,Miyabi
+Harumasa,Hugo,Pulchra
+Harumasa,Hugo,Trigger
+Harumasa,Ju Fufu,Koleda
+Harumasa,Ju Fufu,Lighter
+Harumasa,Ju Fufu,Lucy
+Harumasa,Ju Fufu,Miyabi
+Harumasa,Ju Fufu,Pan Yinhu
+Harumasa,Ju Fufu,Pulchra
+Harumasa,Ju Fufu,Rina
+Harumasa,Ju Fufu,Seth
+Harumasa,Ju Fufu,Soldier 11
+Harumasa,Ju Fufu,Soukaku
+Harumasa,Ju Fufu,Trigger
+Harumasa,Ju Fufu,Yanagi
+Harumasa,Ju Fufu,Yixuan
 Harumasa,Koleda,Lighter
 Harumasa,Koleda,Lucy
 Harumasa,Koleda,Soldier 11
+Harumasa,Koleda,Yixuan
 Harumasa,Lighter,Lucy
 Harumasa,Lighter,Miyabi
 Harumasa,Lighter,Piper
@@ -693,8 +1016,10 @@ Harumasa,Lighter,Soldier 11
 Harumasa,Lighter,Soukaku
 Harumasa,Lighter,Trigger
 Harumasa,Lighter,Yanagi
+Harumasa,Lighter,Yixuan
 Harumasa,Lucy,Piper
 Harumasa,Lucy,Pulchra
+Harumasa,Lycaon,Miyabi
 Harumasa,Lycaon,Rina
 Harumasa,Lycaon,Soukaku
 Harumasa,Miyabi,Pulchra
@@ -702,15 +1027,18 @@ Harumasa,Miyabi,Rina
 Harumasa,Miyabi,Seth
 Harumasa,Miyabi,Soukaku
 Harumasa,Miyabi,Trigger
+Harumasa,Miyabi,Vivian
 Harumasa,Miyabi,Yanagi
 Harumasa,Nekomata,Piper
 Harumasa,Nekomata,Pulchra
+Harumasa,Nicole,Vivian
 Harumasa,Piper,Pulchra
 Harumasa,Pulchra,Rina
 Harumasa,Pulchra,Seth
 Harumasa,Pulchra,Soukaku
 Harumasa,Pulchra,Trigger
 Harumasa,Pulchra,Yanagi
+Harumasa,Pulchra,Yixuan
 Harumasa,Rina,Trigger
 Harumasa,Rina,Yanagi
 Harumasa,Seth,Trigger
@@ -719,6 +1047,71 @@ Harumasa,Soldier 11,Trigger
 Harumasa,Soukaku,Trigger
 Harumasa,Soukaku,Yanagi
 Harumasa,Trigger,Yanagi
+Harumasa,Trigger,Yixuan
+Harumasa,Vivian,Yanagi
+Hugo,Ju Fufu,Koleda
+Hugo,Ju Fufu,Lighter
+Hugo,Ju Fufu,Lucy
+Hugo,Ju Fufu,Lycaon
+Hugo,Ju Fufu,Pan Yinhu
+Hugo,Ju Fufu,Pulchra
+Hugo,Ju Fufu,Soldier 11
+Hugo,Ju Fufu,Soukaku
+Hugo,Ju Fufu,Trigger
+Hugo,Ju Fufu,Yixuan
+Hugo,Koleda,Lighter
+Hugo,Koleda,Lucy
+Hugo,Koleda,Soldier 11
+Hugo,Koleda,Yixuan
+Hugo,Lighter,Lucy
+Hugo,Lighter,Lycaon
+Hugo,Lighter,Piper
+Hugo,Lighter,Pulchra
+Hugo,Lighter,Soldier 11
+Hugo,Lighter,Soukaku
+Hugo,Lighter,Trigger
+Hugo,Lighter,Yixuan
+Hugo,Lucy,Pulchra
+Hugo,Lycaon,Pulchra
+Hugo,Lycaon,Rina
+Hugo,Lycaon,Soukaku
+Hugo,Lycaon,Trigger
+Hugo,Lycaon,Yixuan
+Hugo,Miyabi,Soukaku
+Hugo,Miyabi,Yanagi
+Hugo,Nekomata,Pulchra
+Hugo,Piper,Pulchra
+Hugo,Pulchra,Soukaku
+Hugo,Pulchra,Trigger
+Hugo,Pulchra,Yixuan
+Hugo,Rina,Trigger
+Hugo,Seth,Trigger
+Hugo,Soldier 11,Trigger
+Hugo,Soukaku,Trigger
+Hugo,Soukaku,Yixuan
+Hugo,Soukaku,Zhu Yuan
+Hugo,Trigger,Yanagi
+Hugo,Trigger,Yixuan
+Ju Fufu,Koleda,Soldier 11
+Ju Fufu,Koleda,Yixuan
+Ju Fufu,Lighter,Soldier 11
+Ju Fufu,Lucy,Soldier 11
+Ju Fufu,Lucy,Yixuan
+Ju Fufu,Lucy,Zhu Yuan
+Ju Fufu,Nekomata,Nicole
+Ju Fufu,Nekomata,Pan Yinhu
+Ju Fufu,Nekomata,Piper
+Ju Fufu,Nekomata,Pulchra
+Ju Fufu,Nicole,Yixuan
+Ju Fufu,Nicole,Zhu Yuan
+Ju Fufu,Pan Yinhu,Soldier 11
+Ju Fufu,Pan Yinhu,Yixuan
+Ju Fufu,Pulchra,Soldier 11
+Ju Fufu,Pulchra,Yixuan
+Ju Fufu,Seth,Zhu Yuan
+Ju Fufu,Soldier 11,Trigger
+Ju Fufu,Soldier 11,Yixuan
+Ju Fufu,Vivian,Yixuan
 Koleda,Lighter,Lucy
 Koleda,Lighter,Piper
 Koleda,Lighter,Pulchra
@@ -727,13 +1120,20 @@ Koleda,Lucy,Miyabi
 Koleda,Lucy,Piper
 Koleda,Lucy,Pulchra
 Koleda,Lucy,Soldier 11
+Koleda,Lucy,Yixuan
 Koleda,Lucy,Zhu Yuan
+Koleda,Nicole,Yixuan
+Koleda,Pan Yinhu,Yixuan
 Koleda,Pulchra,Soldier 11
+Koleda,Pulchra,Yixuan
 Koleda,Soldier 11,Trigger
+Koleda,Soldier 11,Yixuan
+Koleda,Vivian,Yixuan
 Lighter,Lucy,Miyabi
 Lighter,Lucy,Piper
 Lighter,Lucy,Pulchra
 Lighter,Lucy,Soldier 11
+Lighter,Lucy,Yixuan
 Lighter,Lucy,Zhu Yuan
 Lighter,Nekomata,Nicole
 Lighter,Nekomata,Piper
@@ -741,66 +1141,112 @@ Lighter,Nekomata,Pulchra
 Lighter,Nicole,Zhu Yuan
 Lighter,Piper,Pulchra
 Lighter,Piper,Soldier 11
+Lighter,Piper,Vivian
 Lighter,Piper,Yanagi
+Lighter,Piper,Yixuan
 Lighter,Pulchra,Soldier 11
+Lighter,Pulchra,Yixuan
 Lighter,Seth,Zhu Yuan
 Lighter,Soldier 11,Trigger
+Lighter,Soldier 11,Yixuan
 Lucy,Miyabi,Piper
 Lucy,Miyabi,Pulchra
 Lucy,Miyabi,Soldier 11
+Lucy,Miyabi,Yixuan
 Lucy,Nekomata,Piper
 Lucy,Nekomata,Pulchra
+Lucy,Nicole,Yixuan
+Lucy,Pan Yinhu,Yixuan
 Lucy,Piper,Pulchra
 Lucy,Piper,Soldier 11
+Lucy,Piper,Vivian
 Lucy,Piper,Yanagi
+Lucy,Piper,Yixuan
 Lucy,Piper,Zhu Yuan
 Lucy,Pulchra,Soldier 11
+Lucy,Pulchra,Yixuan
 Lucy,Pulchra,Zhu Yuan
 Lucy,Soldier 11,Trigger
+Lucy,Soldier 11,Yixuan
 Lucy,Soldier 11,Zhu Yuan
+Lucy,Vivian,Yixuan
+Lucy,Yixuan,Zhu Yuan
 Lycaon,Miyabi,Rina
 Lycaon,Miyabi,Soukaku
+Lycaon,Miyabi,Yanagi
 Lycaon,Rina,Seth
 Lycaon,Rina,Soukaku
 Lycaon,Rina,Trigger
 Lycaon,Rina,Yanagi
+Lycaon,Rina,Yixuan
 Lycaon,Rina,Zhu Yuan
+Lycaon,Soukaku,Yixuan
 Lycaon,Soukaku,Zhu Yuan
 Miyabi,Nekomata,Nicole
+Miyabi,Nicole,Vivian
+Miyabi,Nicole,Yixuan
 Miyabi,Nicole,Zhu Yuan
 Miyabi,Rina,Seth
 Miyabi,Rina,Trigger
 Miyabi,Rina,Yanagi
 Miyabi,Seth,Yanagi
+Miyabi,Soukaku,Vivian
 Miyabi,Soukaku,Yanagi
+Miyabi,Soukaku,Yixuan
 Miyabi,Soukaku,Zhu Yuan
 Miyabi,Trigger,Yanagi
+Miyabi,Vivian,Yanagi
 Nekomata,Nicole,Piper
 Nekomata,Nicole,Pulchra
 Nekomata,Nicole,Trigger
+Nekomata,Nicole,Vivian
+Nekomata,Nicole,Yixuan
 Nekomata,Nicole,Zhu Yuan
 Nekomata,Piper,Pulchra
 Nekomata,Piper,Trigger
+Nekomata,Piper,Vivian
 Nekomata,Piper,Yanagi
 Nekomata,Pulchra,Trigger
+Nekomata,Pulchra,Yixuan
+Nicole,Pan Yinhu,Yixuan
+Nicole,Pulchra,Yixuan
 Nicole,Pulchra,Zhu Yuan
 Nicole,Seth,Zhu Yuan
 Nicole,Trigger,Zhu Yuan
+Nicole,Vivian,Yanagi
+Nicole,Vivian,Yixuan
+Nicole,Vivian,Zhu Yuan
+Nicole,Yixuan,Zhu Yuan
+Pan Yinhu,Pulchra,Yixuan
+Piper,Pulchra,Vivian
 Piper,Pulchra,Yanagi
+Piper,Pulchra,Yixuan
 Pulchra,Seth,Zhu Yuan
 Pulchra,Soldier 11,Trigger
+Pulchra,Vivian,Yixuan
 Rina,Seth,Trigger
 Rina,Seth,Yanagi
+Rina,Seth,Yixuan
 Rina,Seth,Zhu Yuan
 Rina,Soldier 11,Trigger
 Rina,Soukaku,Yanagi
 Rina,Trigger,Yanagi
+Rina,Trigger,Yixuan
 Rina,Trigger,Zhu Yuan
+Rina,Vivian,Yanagi
+Rina,Yanagi,Yixuan
 Rina,Yanagi,Zhu Yuan
 Seth,Soldier 11,Trigger
 Seth,Soukaku,Yanagi
 Seth,Trigger,Yanagi
+Seth,Trigger,Yixuan
 Seth,Trigger,Zhu Yuan
+Seth,Vivian,Yanagi
+Seth,Vivian,Zhu Yuan
 Seth,Yanagi,Zhu Yuan
 Soldier 11,Trigger,Yanagi
+Soldier 11,Trigger,Yixuan
 Soukaku,Trigger,Yanagi
+Soukaku,Vivian,Yanagi
+Trigger,Vivian,Yanagi
+Trigger,Yanagi,Yixuan
