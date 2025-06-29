@@ -10,3 +10,8 @@
 1.1.0
 - Added Seth, Qingyi, and Jane Doe
 - Fixed "undefined" and empty agent showing up
+
+05 April 2025
+1.6.0
+- Scraped data for all new agents including Trigger
+- UI Overhaul
