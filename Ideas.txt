@@ -1,0 +1,11 @@
+Ideas
+
+- Add a "what agents do you own" screen, and save it into localStorage
+	- ZZZTeamFinder_agentsOwned = "{'Anby': true, ...}"
+- If localStorage doesn't exist, pop up this screen to select
+	- Have a button in the top or side to access this screen in case user wants to revisit
+	- Have a "have all agents" button that replaces the ownedAgents array with all the existing agents (but DON'T overwrite localStorage)
+
+
+onMount:
+- If localStorage exists, read it into the ownedAgents array 

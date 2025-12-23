@@ -1,14 +1,16 @@
 Agent,Element,Faction,FS,Can Defensive Assist
-Alice Thymefield,Unknown,Unknown,Unknown,False
+Alice,Physical,Spook Shack,Anomaly,True
 Anby Soldier 0,Electric,Unknown Faction,Attack,True
 Anby,Electric,Cunning Hares,Stun,True
 Anton,Electric,Belobog Heavy Industries,Attack,True
 Astra Yao,Ether,Stars of Lyra,Support,False
-Ben,Fire,Belobog Heavy Industries,Defence,True
+Banyue,Fire,Krampus Compliance Authority,Rupture,True
+Ben,Fire,Belobog Heavy Industries,Unknown,True
 Billy,Physical,Cunning Hares,Attack,False
 Burnice,Fire,Sons of Calydon,Anomaly,True
-Caesar,Physical,Sons of Calydon,Defence,True
+Caesar,Physical,Sons of Calydon,Unknown,True
 Corin,Physical,Victoria Housekeeping Co.,Attack,True
+Dialyn,Physical,Krampus Compliance Authority,Stun,False
 Ellen,Ice,Victoria Housekeeping Co.,Attack,True
 Evelyn,Fire,Stars of Lyra,Attack,True
 Grace,Electric,Belobog Heavy Industries,Anomaly,False
@@ -18,22 +20,29 @@ Jane Doe,Physical,N.E.P.S.,Anomaly,True
 Ju Fufu,Fire,Yunkui Summit,Stun,True
 Koleda,Fire,Belobog Heavy Industries,Stun,True
 Lighter,Fire,Sons of Calydon,Stun,True
+Lucia,Ether,Spook Shack,Support,True
 Lucy,Fire,Sons of Calydon,Support,True
 Lycaon,Ice,Victoria Housekeeping Co.,Stun,True
+Manato,Fire,Spook Shack,Rupture,True
 Miyabi,Ice,Section 6,Anomaly,True
 Nekomata,Physical,Cunning Hares,Attack,True
 Nicole,Ether,Cunning Hares,Support,True
-Pan Yinhu,Physical,Yunkui Summit,Defence,True
+Orphie  Magus,Fire,OBOLS Squad,Attack,True
+Pan Yinhu,Physical,Yunkui Summit,Unknown,True
 Piper,Physical,Sons of Calydon,Anomaly,True
 Pulchra,Physical,Sons of Calydon,Stun,False
 Qingyi,Electric,N.E.P.S.,Stun,True
 Rina,Electric,Victoria Housekeeping Co.,Support,False
-Seth,Electric,N.E.P.S.,Defence,True
+Seed,Electric,OBOLS Squad,Attack,True
+Seth,Electric,N.E.P.S.,Unknown,True
 Soldier 11,Fire,OBOLS Squad,Attack,True
 Soukaku,Ice,Section 6,Support,True
 Trigger,Electric,OBOLS Squad,Stun,True
-Ukinami Yuzuha,Unknown,Unknown,Unknown,False
 Vivian,Ether,Mockingbird,Anomaly,True
 Yanagi,Electric,Section 6,Anomaly,True
+Ye Shunguang,Unknown,Yunkui Summit,Attack,False
+Yidhari,Ice,Spook Shack,Rupture,False
 Yixuan,Ether,Yunkui Summit,Rupture,True
+Yuzuha,Physical,Spook Shack,Support,True
+Zhao,Ice,Krampus Compliance Authority,Unknown,False
 Zhu Yuan,Ether,N.E.P.S.,Attack,False
